@@ -1,0 +1,19 @@
+{
+    "name": "leo/swissknives",
+    "description": "Library teste",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "Leo\\Swissknives\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "leonardo89stg",
+            "email": "leo89stg@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
