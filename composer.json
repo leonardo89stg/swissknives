@@ -1,11 +1,11 @@
 {
-    "name": "leo/swissknives",
-    "description": "Library teste",
+    "name": "leonardo89stg/swissknives",
+    "description": "libreary teste",
     "type": "library",
     "license": "BSD-3-Clause",
     "autoload": {
         "psr-4": {
-            "Leo\\Swissknives\\": "src/"
+            "Leonardo89stg\\Swissknives\\": "src/"
         }
     },
     "authors": [
