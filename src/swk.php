@@ -6,7 +6,7 @@ namespace Leonardo89stg\Swissknives;
 x
 */
 
-class start
+class swk
 {
 
     public function dt($date)
