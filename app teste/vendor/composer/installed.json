@@ -1,0 +1,46 @@
+{
+    "packages": [
+        {
+            "name": "leonardo89stg/swissknives",
+            "version": "v1.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/leonardo89stg/swissknives.git",
+                "reference": "75520ffa54308201b7e8db8afbf31ea1ea9195a0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/leonardo89stg/swissknives/zipball/75520ffa54308201b7e8db8afbf31ea1ea9195a0",
+                "reference": "75520ffa54308201b7e8db8afbf31ea1ea9195a0",
+                "shasum": ""
+            },
+            "time": "2024-06-08T21:13:31+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Leonardo89stg\\Swissknives\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "leonardo89stg",
+                    "email": "leo89stg@gmail.com"
+                }
+            ],
+            "description": "libreary teste",
+            "support": {
+                "issues": "https://github.com/leonardo89stg/swissknives/issues",
+                "source": "https://github.com/leonardo89stg/swissknives/tree/v1.0"
+            },
+            "install-path": "../leonardo89stg/swissknives"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
