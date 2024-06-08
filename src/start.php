@@ -6,8 +6,11 @@ namespace Leonardo89stg\Swissknives;
 class start
 {
 
-    public function ShowMsg()
+    public function dt($date)
     {
-        return "Ola mundo";
+        // Example: Convert the date to a different format
+        $data = date('Y-m-d', strtotime($date));
+        
+        return      $data;
     }
 }
